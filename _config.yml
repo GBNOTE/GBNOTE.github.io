@@ -99,7 +99,7 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
+ 
 # Site Author
 author:
   name             : "Your Name"
@@ -228,6 +228,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:
